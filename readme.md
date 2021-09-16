@@ -2,7 +2,7 @@
   <img src="http://www.iconexlog.com.br/assets/img/logos/logobranca.png" alt="iConex" width="230" />
 </p>
 
-# Vaga Desenvolvedor FullStack Plêno
+# Vaga Desenvolvedor FullStack Pleno
 
 ## Nossa empresa
 Somos apaixonados por logística e tecnologia, especializados em e-commerce, acreditamos em encontros, bons momentos provem da conexão entre pessoas, desejos, necessidade e vontade.

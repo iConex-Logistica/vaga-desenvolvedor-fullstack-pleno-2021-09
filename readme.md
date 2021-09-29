@@ -38,6 +38,7 @@ Experiência com Desenvolvimento em:
 - Seguro de vida
 - VR / VA
 - Vale Transporte
+- Conta na Alura +300 cursos
 
 ## Contratação
 - CLT Full

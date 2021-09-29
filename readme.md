@@ -66,7 +66,7 @@ Para que tudo isso funcione, precisaremos criar:
     - [ ] Total de Pedido Finalizados
   - [ ] Consulta de Pedido (Opcional)
   - [ ] Histórico do Pedido (Opcional)
-- [ ] API Rest com TypeORM
+- [ ] API Rest com algum ORM
   - [ ] CRUD's
     - [ ] Users
     - [ ] Companies
